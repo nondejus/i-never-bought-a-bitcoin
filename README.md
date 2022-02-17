@@ -1,2 +1,9 @@
-# i-never-bought-a-butcoin
+# i-never-bought-a-bitcoin
+
 2009-2022
+
+# mining
+https://en.bitcoin.it/wiki/Mining
+
+# cryotocurrency exchange
+https://en.wikipedia.org/wiki/Cryptocurrency_exchange
